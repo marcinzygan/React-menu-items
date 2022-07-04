@@ -13,7 +13,7 @@
 - Function to filter items by category
 - Add category buttons dynamic by getting unique category value
 
-# This project is Live <a href="https://mz-react-accordion.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://mz-react-menu-items.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 - 📫 Find me on <a href="https://marcin-zygan.com">marcin-zygan.com</a>
